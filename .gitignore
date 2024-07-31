@@ -14,3 +14,7 @@
 *.toc
 
 Bylaws_old.pdf
+
+Old Diff/*
+
+.DS_Store
